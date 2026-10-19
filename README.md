@@ -123,12 +123,12 @@ Example error response (400):
 
 ## Screenshots
 
-Add at least three screenshots to `docs/screenshots/` and link them here:
+The three app UI screenshots use a local mock API; no registration was written to Firestore. The Thunder Client example sends an empty registration request to the local API, which rejects it during validation.
 
-1. The page with saved members loaded
-2. The form showing validation errors
-3. The form after a successful registration
-4. A Thunder Client request that returns 400 or 404
+1. [Page with saved members loaded](docs/screenshots/members-loaded.png)
+2. [Form showing validation errors](docs/screenshots/validation-errors.png)
+3. [Form after a successful registration](docs/screenshots/registration-success.png)
+4. [Thunder Client request returning 400](docs/screenshots/thunder-client-400.png)
 
 ## Bonus features implemented
 
