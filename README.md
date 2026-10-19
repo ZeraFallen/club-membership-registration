@@ -141,4 +141,6 @@ The three app UI screenshots use a local mock API; no registration was written t
 
 ## AI assistance
 
-Claude (Anthropic) was used to help generate the initial code scaffold and a first draft of this README. Edit this section to describe what you wrote or changed yourself.
+Claude (Anthropic) was used to help generate the initial code scaffold and a first draft of this README.
+Co Pilot (Github) was used to help push the project into github and screenshots for the documentation.
+
